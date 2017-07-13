@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TicTacToeAI</string>
+    <string name="welcome">Welcome to the Tic-Tac-Terminator.</string>
+    <string name="enter_item">Enter an item</string>
+    <string name="select_type">Select the type you would like to play as.</string>
+    <string name="begin">START GAME</string>
+    <string name="next">Next</string>
+    <string name="undo">UNDO</string>
+    <string name="make_your_move">Make your move.</string>
+    <string name="illegal_move">Sorry, that position is already filled in.</string>
+    <string name="restart">RESTART</string>
+    <string name="current_node_probs">Current Node Probabilities:</string>
+    <string name="long_press_probs">Long Pressed Node Probabilities</string>
+    <string name="empty"></string>
+    <string name="quit">QUIT</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut volutpat interdum interdum. Nulla laoreet lacus diam, vitae sodales sapien commodo faucibus. Vestibulum et feugiat enim. Donec semper mi et euismod tempor. Sed sodales eleifend mi id varius. Nam et ornare enim, sit amet gravida sapien. Quisque gravida et enim vel</string>
+    <string-array name="which_turn">
+        <item>X</item>
+        <item>O</item>
+    </string-array>
+</resources>

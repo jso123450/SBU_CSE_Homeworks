@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/fragment_menu"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.tictactoeai.fragments.MenuFragment">
+
+    <TextView
+        android:id="@+id/menu_display"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="Arial"
+        android:textSize="30sp"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:text="@string/welcome"/>
+
+</LinearLayout>
