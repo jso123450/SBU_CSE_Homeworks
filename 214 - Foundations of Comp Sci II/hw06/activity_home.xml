@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:theme="@android:style/Theme.WithActionBar">
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="24dp"
+        android:layout_gravity="center_horizontal"
+        android:textSize="32sp"
+        android:textAlignment="center"
+        android:text="@string/welcome" />
+
+    <FrameLayout
+        android:id="@+id/fragment_container"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"/>
+
+    <!-- Added programmatically accordingly
+    <fragment
+        android:id="@+id/menu_fragment"
+        android:name="com.example.bitterplatform.fragments.MenuFragment"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"/>
+
+    <fragment
+        android:id="@+id/display_fragment"
+        android:name="com.example.bitterplatform.fragments.DisplayFragment"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"/>
+        -->
+
+</LinearLayout>

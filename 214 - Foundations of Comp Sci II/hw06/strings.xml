@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">BitterPlatform</string>
+    <string name="welcome">Welcome to Bitter!</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email_hint">Email</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="member">Already a member? Login now!</string>
+    <string name="signup">No account yet? Register now!</string>
+    <string name="password_req">at least 1 uppercase, 1 lowercase, 1 number, and 1 special symbol</string>
+    <string name="logging_in">Logging In...</string>
+    <string name="logging_out">Logging Out...</string>
+    <string name="creating_account">Creating Account...</string>
+    <string name="deleting_account">Deleting Account...</string>
+    <string name="login_failed">The combination of email and password is incorrect. </string>
+    <string-array name="menu_options">
+        <item>Follow somebody.</item>
+        <item>Unfollow somebody.</item>
+        <item>View followers.</item>
+        <item>See who you follow.</item>
+        <item>List all users.</item>
+        <item>Logout.</item>
+        <item>Close your account.</item>
+    </string-array>
+    <string name="select">Select</string>
+    <string name="follow">Follow</string>
+    <string name="unfollow">Unfollow</string>
+    <string name="none">There are no Users for this option.</string>
+    <string name="quit">Quit</string>
+</resources>

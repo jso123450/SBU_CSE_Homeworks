@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    tools:context="com.example.bitterplatform.fragments.DisplayFragment">
+
+    <TextView
+        android:id="@+id/display_message"
+        android:gravity="center"
+        android:textAlignment="center"
+        android:textSize="24sp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone"/>
+
+    <Spinner
+        android:id="@+id/spinner"
+        android:gravity="center"
+        android:layout_gravity="center_vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone"/>
+
+    <Button
+        android:id="@+id/button_display_select"
+        android:gravity="center"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone"/>
+
+    <ListView
+        android:id="@+id/listview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone"/>
+
+</LinearLayout>
