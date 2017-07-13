@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">KBCalculator</string>
+    <string name="welcome">Welcome to the KBCalculator!</string>
+    <string-array name="menu_select">
+        <item>I) Import a Movie</item>
+        <item>A) Print all Actors</item>
+        <item>M) Print all Movies</item>
+        <item>P) Print the shortest path between two actors.</item>
+        <item>B) Print the BFS from a given Actor</item>
+        <item>L) Lookup Actor by Name</item>
+        <item>Q) Quit</item>
+    </string-array>
+    <string name="select">Select</string>
+</resources>
