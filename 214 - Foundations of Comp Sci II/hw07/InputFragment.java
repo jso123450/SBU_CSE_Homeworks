@@ -1,14 +1,6 @@
 package com.example.kbcalculator.fragments;
 
-/**
- * Johnny So
- * 111158276
- * Homework #7
- * CSE 214 Recitation 12
- * Recitation TA: Charles Chen
- * Grading TA: Timothy Zhang
- * @author Johnny
- */
+
 
 /* ----------------------------- IMPORTS ----------------------------- */
 
