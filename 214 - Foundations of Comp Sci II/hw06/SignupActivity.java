@@ -1,15 +1,5 @@
 package com.example.bitterplatform.activities;
 
-/**
- * Johnny So
- * 111158276
- * Homework #6
- * CSE 214 Recitation 12
- * Recitation TA: Charles Chen
- * Grading TA: Timothy Zhang
- * @author Johnny
- */
-
 /* ----------------------------- IMPORTS ----------------------------- */
 
 // Android Imports
